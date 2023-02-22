@@ -1,8 +1,9 @@
-package ru.netology.nmedia.ui.application
+package ru.netologi.yandexmaps.application
 
 import android.app.Application
 import com.yandex.mapkit.MapKitFactory
-import ru.netology.nmedia.BuildConfig
+import ru.netology.yandexmaps.BuildConfig
+
 class App : Application() {
 
     override fun onCreate() {
