@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="plus_button">plus_button</string>
+        <string name="minus_button">minus_button</string>
+        <string name="location_button">location_button</string>
+
+</resources>
